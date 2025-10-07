@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+nltk
+tensorflow
+torch
+transformers
+accelerate
+scikit-learn
+rouge_score
+pytest
+-e .
